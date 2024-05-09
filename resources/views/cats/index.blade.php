@@ -8,6 +8,8 @@
 <body>
     <h1>Cats Is Lifee</h1>
 
+    <a href="{{ route('cats.create') }}">Add New Card</a>
+
 
     <table border="1">
         <thead>
